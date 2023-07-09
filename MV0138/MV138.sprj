@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont />
+  <transcriptionFont>Segoe UI, 18, Regular</transcriptionFont>
   <freeTranslationFont />
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
-  <Title>MV138</Title>
+  <Title>MV0138</Title>
   <FundingProjectTitle />
   <ProjectDescription />
   <VernacularISO3CodeAndName />
